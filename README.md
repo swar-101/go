@@ -1,4 +1,3 @@
-```markdown
 # 🌴 Paradise API  
 
 Welcome to **Paradise API**, a RESTful service for managing tropical products! 🏝️  
